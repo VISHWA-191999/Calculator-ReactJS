@@ -1,0 +1,21 @@
+.buttonsContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 5px;
+    padding: 5px;
+
+
+}
+.button {
+    width: 55px;
+    height: 60px;
+    font-size: 40px;
+    border-radius: 3px;
+    /* background-color: red; */
+    background-color: teal;
+
+
+
+}
